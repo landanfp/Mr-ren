@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "138b992a0e672e8346d8439c3f42ea78")
 
 STRING = os.environ.get("STRING", "")
 
-
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "fi2li123robot")
 
 bot = Client(
 
